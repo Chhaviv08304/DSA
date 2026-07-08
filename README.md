@@ -71,14 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Chhaviv08304/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Chhaviv08304/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Chhaviv08304/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Chhaviv08304/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->

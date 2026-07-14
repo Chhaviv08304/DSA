@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
+| [1025-divisor-game](https://github.com/Chhaviv08304/DSA/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chhaviv08304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Chhaviv08304/DSA/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Chhaviv08304/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Chhaviv08304/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Chhaviv08304/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Chhaviv08304/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Chhaviv08304/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

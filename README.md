@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Chhaviv08304/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Counting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/Chhaviv08304/DSA/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chhaviv08304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Chhaviv08304/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Chhaviv08304/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Brainteaser
 |  |
 | ------- |
@@ -140,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chhaviv08304/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

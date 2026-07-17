@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chhaviv08304/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Chhaviv08304/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Chhaviv08304/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |

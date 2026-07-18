@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Chhaviv08304/DSA/tree/master/0016-3sum-closest) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Chhaviv08304/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chhaviv08304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chhaviv08304/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chhaviv08304/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |

@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chhaviv08304/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chhaviv08304/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chhaviv08304/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chhaviv08304/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chhaviv08304/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chhaviv08304/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

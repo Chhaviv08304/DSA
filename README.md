@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Chhaviv08304/DSA/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Chhaviv08304/DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Chhaviv08304/DSA/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chhaviv08304/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Chhaviv08304/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

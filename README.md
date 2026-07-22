@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chhaviv08304/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Chhaviv08304/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Chhaviv08304/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chhaviv08304/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Chhaviv08304/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Chhaviv08304/DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Chhaviv08304/DSA/tree/master/0016-3sum-closest) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Chhaviv08304/DSA/tree/master/1260-shift-2d-grid) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chhaviv08304/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Chhaviv08304/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

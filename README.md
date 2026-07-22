@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chhaviv08304/DSA/tree/master/0011-container-with-most-water) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chhaviv08304/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chhaviv08304/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Chhaviv08304/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Chhaviv08304/DSA/tree/master/0016-3sum-closest) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Chhaviv08304/DSA/tree/master/1260-shift-2d-grid) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chhaviv08304/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Chhaviv08304/DSA/tree/master/0016-3sum-closest) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chhaviv08304/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking

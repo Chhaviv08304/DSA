@@ -13,15 +13,15 @@ public:
             while (left < right) {
                 int sum = nums[i] + nums[left] + nums[right];
 
-                if (abs(sum - target) < abs(ans - target))
+                if (abs(target - sum) < abs(target - ans))
                     ans = sum;
 
-                if (sum == target)
-                    return sum;
-                else if (sum < target)
+                if (sum < target)
                     left++;
-                else
+                else if (sum > target)
                     right--;
+                else
+                    return sum;
             }
         }
 

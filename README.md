@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chhaviv08304/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Chhaviv08304/DSA/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chhaviv08304/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |

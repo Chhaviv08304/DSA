@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chhaviv08304/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chhaviv08304/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chhaviv08304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Chhaviv08304/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Chhaviv08304/DSA/tree/master/1260-shift-2d-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chhaviv08304/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Chhaviv08304/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Chhaviv08304/DSA/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chhaviv08304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chhaviv08304/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chhaviv08304/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chhaviv08304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chhaviv08304/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chhaviv08304/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics

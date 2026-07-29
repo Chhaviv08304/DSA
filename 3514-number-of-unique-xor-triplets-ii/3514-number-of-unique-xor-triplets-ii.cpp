@@ -3,37 +3,27 @@ public:
     int uniqueXorTriplets(vector<int>& nums) {
         const int MAXX = 2048;
 
-        vector<int> values;
-        vector<bool> seenVal(1501, false);
+        vector<bool> one(MAXX, false);
+        vector<bool> two(MAXX, false);
+        vector<bool> three(MAXX, false);
 
-        for (int x : nums) {
-            if (!seenVal[x]) {
-                seenVal[x] = true;
-                values.push_back(x);
-            }
+        for (int a : nums)
+            one[a] = true;
+
+        for (int x = 0; x < MAXX; x++) {
+            if (!one[x]) continue;
+            for (int a : nums)
+                two[x ^ a] = true;
         }
 
-        vector<bool> dp1(MAXX, false);
-        vector<bool> dp2(MAXX, false);
-        vector<bool> dp3(MAXX, false);
-
-        for (int v : values)
-            dp1[v] = true;
-
-        for (int a = 0; a < MAXX; a++) {
-            if (!dp1[a]) continue;
-            for (int v : values)
-                dp2[a ^ v] = true;
-        }
-
-        for (int a = 0; a < MAXX; a++) {
-            if (!dp2[a]) continue;
-            for (int v : values)
-                dp3[a ^ v] = true;
+        for (int x = 0; x < MAXX; x++) {
+            if (!two[x]) continue;
+            for (int a : nums)
+                three[x ^ a] = true;
         }
 
         int ans = 0;
-        for (bool x : dp3)
+        for (bool x : three)
             if (x) ans++;
 
         return ans;

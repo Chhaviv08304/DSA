@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chhaviv08304/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Chhaviv08304/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Chhaviv08304/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Chhaviv08304/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Chhaviv08304/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Chhaviv08304/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Chhaviv08304/DSA/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Chhaviv08304/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Chhaviv08304/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chhaviv08304/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chhaviv08304/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Chhaviv08304/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Chhaviv08304/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Chhaviv08304/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chhaviv08304/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chhaviv08304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |

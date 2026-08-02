@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Chhaviv08304/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Chhaviv08304/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Chhaviv08304/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Chhaviv08304/DSA/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Chhaviv08304/DSA/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Chhaviv08304/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chhaviv08304/DSA/tree/master/0509-fibonacci-number) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Chhaviv08304/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chhaviv08304/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chhaviv08304/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chhaviv08304/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chhaviv08304/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Chhaviv08304/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Chhaviv08304/DSA/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Chhaviv08304/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Chhaviv08304/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |

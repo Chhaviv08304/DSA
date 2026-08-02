@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chhaviv08304/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Chhaviv08304/DSA/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Chhaviv08304/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Chhaviv08304/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chhaviv08304/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Chhaviv08304/DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Chhaviv08304/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Chhaviv08304/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chhaviv08304/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chhaviv08304/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |

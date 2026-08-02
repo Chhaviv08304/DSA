@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chhaviv08304/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Chhaviv08304/DSA/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/Chhaviv08304/DSA/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chhaviv08304/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Chhaviv08304/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |

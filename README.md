@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Chhaviv08304/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Chhaviv08304/DSA/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chhaviv08304/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chhaviv08304/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Chhaviv08304/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Chhaviv08304/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Chhaviv08304/DSA/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Chhaviv08304/DSA/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Chhaviv08304/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Chhaviv08304/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0977-squares-of-a-sorted-array) |

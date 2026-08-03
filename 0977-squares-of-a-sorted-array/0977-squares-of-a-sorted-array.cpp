@@ -10,7 +10,6 @@ public:
         int idx = n - 1;
 
         while (left <= right) {
-
             int leftSq = nums[left] * nums[left];
             int rightSq = nums[right] * nums[right];
 

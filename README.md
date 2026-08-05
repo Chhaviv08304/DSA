@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3310-remove-methods-from-project](https://github.com/Chhaviv08304/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Chhaviv08304/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3310-remove-methods-from-project](https://github.com/Chhaviv08304/DSA/tree/master/3310-remove-methods-from-project) |
 ## Brainteaser
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3310-remove-methods-from-project](https://github.com/Chhaviv08304/DSA/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Chhaviv08304/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |

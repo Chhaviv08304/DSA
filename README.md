@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chhaviv08304/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Chhaviv08304/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Chhaviv08304/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Chhaviv08304/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Chhaviv08304/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Chhaviv08304/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Chhaviv08304/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Chhaviv08304/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Chhaviv08304/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Chhaviv08304/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chhaviv08304/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Chhaviv08304/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Chhaviv08304/DSA/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Chhaviv08304/DSA/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Chhaviv08304/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chhaviv08304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Two Pointers
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Chhaviv08304/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Chhaviv08304/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Chhaviv08304/DSA/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Chhaviv08304/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Chhaviv08304/DSA/tree/master/0113-path-sum-ii) |
 ## Tree
 |  |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Chhaviv08304/DSA/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Chhaviv08304/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Chhaviv08304/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0129-sum-root-to-leaf-numbers) |

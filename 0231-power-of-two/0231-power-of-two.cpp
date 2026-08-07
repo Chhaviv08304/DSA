@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
-        int pow=n^2;
         if(n<=0){
             return false;
         }

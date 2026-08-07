@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chhaviv08304/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Chhaviv08304/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Chhaviv08304/DSA/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Chhaviv08304/DSA/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Chhaviv08304/DSA/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Chhaviv08304/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chhaviv08304/DSA/tree/master/0509-fibonacci-number) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Chhaviv08304/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Chhaviv08304/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Chhaviv08304/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Chhaviv08304/DSA/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Chhaviv08304/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chhaviv08304/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Chhaviv08304/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chhaviv08304/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chhaviv08304/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chhaviv08304/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chhaviv08304/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Chhaviv08304/DSA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chhaviv08304/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chhaviv08304/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chhaviv08304/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/Chhaviv08304/DSA/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chhaviv08304/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chhaviv08304/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Chhaviv08304/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2239-find-closest-number-to-zero](https://github.com/Chhaviv08304/DSA/tree/master/2239-find-closest-number-to-zero) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chhaviv08304/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Chhaviv08304/DSA/tree/master/3024-type-of-triangle) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chhaviv08304/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chhaviv08304/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |

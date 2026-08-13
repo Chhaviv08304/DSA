@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Chhaviv08304/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Chhaviv08304/DSA/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Chhaviv08304/DSA/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chhaviv08304/DSA/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Chhaviv08304/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Chhaviv08304/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Chhaviv08304/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Chhaviv08304/DSA/tree/master/0371-sum-of-two-integers) |

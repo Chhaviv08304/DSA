@@ -445,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chhaviv08304/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Chhaviv08304/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

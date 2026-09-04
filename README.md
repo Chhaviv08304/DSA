@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Chhaviv08304/DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chhaviv08304/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chhaviv08304/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Chhaviv08304/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Chhaviv08304/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Chhaviv08304/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Chhaviv08304/DSA/tree/master/1929-concatenation-of-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Chhaviv08304/DSA/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Chhaviv08304/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chhaviv08304/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1672-richest-customer-wealth](https://github.com/Chhaviv08304/DSA/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chhaviv08304/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |

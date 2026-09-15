@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Chhaviv08304/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Chhaviv08304/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chhaviv08304/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chhaviv08304/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chhaviv08304/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Chhaviv08304/DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chhaviv08304/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Chhaviv08304/DSA/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/Chhaviv08304/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chhaviv08304/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chhaviv08304/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chhaviv08304/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chhaviv08304/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Chhaviv08304/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Chhaviv08304/DSA/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Chhaviv08304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Chhaviv08304/DSA/tree/master/1406-stone-game-iii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chhaviv08304/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chhaviv08304/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Chhaviv08304/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Chhaviv08304/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chhaviv08304/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chhaviv08304/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |

@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Chhaviv08304/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chhaviv08304/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Chhaviv08304/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Chhaviv08304/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Chhaviv08304/DSA/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/Chhaviv08304/DSA/tree/master/1323-maximum-69-number) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Chhaviv08304/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chhaviv08304/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |

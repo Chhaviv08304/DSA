@@ -3,18 +3,16 @@ public:
     vector<string> ans;
 
     void solve(string curr, int open, int close, int n) {
-        // Base case
+        
         if (curr.length() == 2 * n) {
             ans.push_back(curr);
             return;
         }
 
-        // Add '('
         if (open < n) {
             solve(curr + '(', open + 1, close, n);
         }
 
-        // Add ')'
         if (close < open) {
             solve(curr + ')', open, close + 1, n);
         }

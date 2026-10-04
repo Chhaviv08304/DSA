@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Chhaviv08304/DSA/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Chhaviv08304/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/Chhaviv08304/DSA/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Chhaviv08304/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Chhaviv08304/DSA/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chhaviv08304/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chhaviv08304/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chhaviv08304/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Chhaviv08304/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Chhaviv08304/DSA/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chhaviv08304/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Chhaviv08304/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0486-predict-the-winner](https://github.com/Chhaviv08304/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chhaviv08304/DSA/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Chhaviv08304/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chhaviv08304/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Chhaviv08304/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Chhaviv08304/DSA/tree/master/1025-divisor-game) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chhaviv08304/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Chhaviv08304/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Chhaviv08304/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Chhaviv08304/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chhaviv08304/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Chhaviv08304/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm

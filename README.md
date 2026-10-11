@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Chhaviv08304/DSA/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Chhaviv08304/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Chhaviv08304/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Chhaviv08304/DSA/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Chhaviv08304/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Chhaviv08304/DSA/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Chhaviv08304/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chhaviv08304/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Chhaviv08304/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0338-counting-bits](https://github.com/Chhaviv08304/DSA/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Chhaviv08304/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Chhaviv08304/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chhaviv08304/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Chhaviv08304/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chhaviv08304/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chhaviv08304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Chhaviv08304/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Chhaviv08304/DSA/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/Chhaviv08304/DSA/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/Chhaviv08304/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Chhaviv08304/DSA/tree/master/0881-boats-to-save-people) |

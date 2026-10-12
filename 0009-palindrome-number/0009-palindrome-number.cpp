@@ -1,20 +1,18 @@
+
 class Solution {
 public:
-    int reverse(int n) {
-        int revnum=0;
-    while(n!=0){
-        int dig=n%10;
-        if(revnum > INT_MAX/10 || revnum<INT_MIN/10){
-            return 0;
+    bool isPalindrome(int x) {
+        if (x < 0 || (x % 10 == 0 && x != 0))
+            return false;
+
+        int rev = 0;
+
+        while (x > rev) {
+            int digit = x % 10;
+            rev = rev * 10 + digit;
+            x /= 10;
         }
-        revnum=revnum*10+dig;
-        n=n/10;
-    }
-    return revnum; 
-    }
-    bool isPalindrome(int n){
-        if(n<0) return false;
-        int revnum=reverse(n);
-        return n== revnum;
+
+        return x == rev || x == rev / 10;
     }
 };

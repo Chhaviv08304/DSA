@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Chhaviv08304/DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Chhaviv08304/DSA/tree/master/0525-contiguous-array) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/Chhaviv08304/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chhaviv08304/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/Chhaviv08304/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chhaviv08304/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Chhaviv08304/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Chhaviv08304/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Chhaviv08304/DSA/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Chhaviv08304/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chhaviv08304/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Chhaviv08304/DSA/tree/master/1260-shift-2d-grid) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chhaviv08304/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chhaviv08304/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Chhaviv08304/DSA/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chhaviv08304/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chhaviv08304/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chhaviv08304/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

@@ -15,12 +15,10 @@ public:
 
         vector<pair<int, int>> arr;
 
-        // Store {number, original index}
         for (int i = 0; i < n; i++) {
             arr.push_back({nums[i], i});
         }
 
-        // Sort by digit sum, then by number
         sort(arr.begin(), arr.end(), [&](auto a, auto b) {
             int sumA = digitSum(a.first);
             int sumB = digitSum(b.first);
@@ -34,7 +32,6 @@ public:
         vector<bool> visited(n, false);
         int swaps = 0;
 
-        // Count cycles
         for (int i = 0; i < n; i++) {
             if (visited[i] || arr[i].second == i)
                 continue;

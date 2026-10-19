@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Chhaviv08304/DSA/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/Chhaviv08304/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/Chhaviv08304/DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Chhaviv08304/DSA/tree/master/0525-contiguous-array) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Chhaviv08304/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Chhaviv08304/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chhaviv08304/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chhaviv08304/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Chhaviv08304/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Chhaviv08304/DSA/tree/master/0414-third-maximum-number) |
 | [0457-circular-array-loop](https://github.com/Chhaviv08304/DSA/tree/master/0457-circular-array-loop) |
 | [0486-predict-the-winner](https://github.com/Chhaviv08304/DSA/tree/master/0486-predict-the-winner) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chhaviv08304/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chhaviv08304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Chhaviv08304/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Chhaviv08304/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Chhaviv08304/DSA/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/Chhaviv08304/DSA/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/Chhaviv08304/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Chhaviv08304/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Chhaviv08304/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Chhaviv08304/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chhaviv08304/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chhaviv08304/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chhaviv08304/DSA/tree/master/2089-find-target-indices-after-sorting-array) |

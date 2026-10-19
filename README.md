@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Chhaviv08304/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Chhaviv08304/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Chhaviv08304/DSA/tree/master/0299-bulls-and-cows) |
 | [0457-circular-array-loop](https://github.com/Chhaviv08304/DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Chhaviv08304/DSA/tree/master/0525-contiguous-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chhaviv08304/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Chhaviv08304/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Chhaviv08304/DSA/tree/master/0767-reorganize-string) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Chhaviv08304/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Chhaviv08304/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chhaviv08304/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chhaviv08304/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Chhaviv08304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Chhaviv08304/DSA/tree/master/0414-third-maximum-number) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Chhaviv08304/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Chhaviv08304/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Chhaviv08304/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Chhaviv08304/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chhaviv08304/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Chhaviv08304/DSA/tree/master/0371-sum-of-two-integers) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chhaviv08304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chhaviv08304/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Chhaviv08304/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Chhaviv08304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chhaviv08304/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Chhaviv08304/DSA/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Chhaviv08304/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Chhaviv08304/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chhaviv08304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Chhaviv08304/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Chhaviv08304/DSA/tree/master/0342-power-of-four) |

@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Chhaviv08304/DSA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chhaviv08304/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Chhaviv08304/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Chhaviv08304/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/Chhaviv08304/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Chhaviv08304/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Chhaviv08304/DSA/tree/master/0881-boats-to-save-people) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Chhaviv08304/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Chhaviv08304/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Chhaviv08304/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Chhaviv08304/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chhaviv08304/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chhaviv08304/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chhaviv08304/DSA/tree/master/2089-find-target-indices-after-sorting-array) |

@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Chhaviv08304/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Chhaviv08304/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chhaviv08304/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Chhaviv08304/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Chhaviv08304/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chhaviv08304/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Chhaviv08304/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chhaviv08304/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Chhaviv08304/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Chhaviv08304/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Chhaviv08304/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Chhaviv08304/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chhaviv08304/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -182,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Chhaviv08304/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Chhaviv08304/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Chhaviv08304/DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Chhaviv08304/DSA/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chhaviv08304/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Chhaviv08304/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Chhaviv08304/DSA/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Chhaviv08304/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chhaviv08304/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Chhaviv08304/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Chhaviv08304/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chhaviv08304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Chhaviv08304/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chhaviv08304/DSA/tree/master/0202-happy-number) |

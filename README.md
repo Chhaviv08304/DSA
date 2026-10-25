@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chhaviv08304/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Chhaviv08304/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Chhaviv08304/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Chhaviv08304/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chhaviv08304/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chhaviv08304/DSA/tree/master/0283-move-zeroes) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Chhaviv08304/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Chhaviv08304/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chhaviv08304/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Chhaviv08304/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Chhaviv08304/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Chhaviv08304/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Chhaviv08304/DSA/tree/master/0268-missing-number) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Chhaviv08304/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Chhaviv08304/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chhaviv08304/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chhaviv08304/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Chhaviv08304/DSA/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Chhaviv08304/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chhaviv08304/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chhaviv08304/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -760,4 +764,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Chhaviv08304/DSA/tree/master/0455-assign-cookies) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Chhaviv08304/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Chhaviv08304/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Chhaviv08304/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
